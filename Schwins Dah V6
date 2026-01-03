@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://gist.githubusercontent.com/kailon12345/d98362e2a11c43a4446b62629d411175/raw/20d8e4a05fd004ddcf2389b4e3e6a588fc3436e3/gistfile1.txt', true))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/kailon12345/5415cafba87d0ab1806249eb23a23ccf/raw/e4ec10b0847db822542eb993343ac56fd16012ae/gistfile1.txt"))()
